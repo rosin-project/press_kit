@@ -1,7 +1,12 @@
+# Manage your FTP page
+
+The "rosin-project.eu" homepage offers a blog for all accepted FTPs.  
+ROSIN  FTP beneficiaries are able to manage their own blog page as described in the [how_to](how_to_manage_your_ftp_page.md).
+
 # Press kit
 Logos and other material related to ROSIN
 
-In this repository ROSIN FTP beneficiaries can find logos and copy-pastable text to use in their attributions.
+In the following ROSIN FTP beneficiaries can find logos and copy-pastable text to use in their attributions.
 So for sections in readmes, wiki pages and web sites.
 
 ## ROS Wiki
