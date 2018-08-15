@@ -7,8 +7,8 @@ It is required to have an user for the "rosin-project.eu" backend!
       Use the editor.
       
     1. _Featured Image_:  
-      Use the _Featured Image_ as an eyecatcher for the [FTP-overview][2].   
-      In order to change it click the image.  
+      Use the _Featured Image_ (recommended format is `3 x 4`) as an eyecatcher for the [FTP-overview][2]. Moreover, as soon as we disseminate your sub-page on social media (twitter, linkedin, etc.) this image will be crawled automatically.  
+      In order to change it click on the image. You can easily delete uploaded images by the button `Delete Permanently`.
       ![image](https://user-images.githubusercontent.com/17281534/43964447-2bc23c6e-9cbd-11e8-866d-62bdb017b57a.png)
 
     1. _Release Link_:  
