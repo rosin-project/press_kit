@@ -1,3 +1,5 @@
+Whenever you make changes to your page it will show up first in the list and thus increase visability.
+
 It is required to have an user for the "rosin-project.eu" backend!
 1. Log in at the [FTP posts][1]
 1. You are able to see your FTP post(s). Click the title to modify the post.
