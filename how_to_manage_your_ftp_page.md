@@ -1,4 +1,4 @@
-Whenever you make changes to your page it will show up first in the list and thus increase visability.
+:nerd_face: Whenever you make changes to your page it will show up first in the list and thus increase visability.
 
 It is required to have an user for the "rosin-project.eu" backend!
 1. Log in at the [FTP posts][1]
@@ -16,6 +16,7 @@ It is required to have an user for the "rosin-project.eu" backend!
 
       
     1. _Featured Image_:  
+      :nerd_face: FTPs without _Featured Image_ will be listed at the end.  
       Use the _Featured Image_ (recommended format is `3 x 4`) as an eyecatcher for the [FTP-overview][2]. Moreover, as soon as we disseminate your sub-page on social media (twitter, linkedin, etc.) this image will be crawled automatically.  
       In order to change it click on the image. You can easily delete uploaded images by the button `Delete Permanently`.
       ![image](https://user-images.githubusercontent.com/17281534/43964447-2bc23c6e-9cbd-11e8-866d-62bdb017b57a.png)
