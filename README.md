@@ -1,4 +1,4 @@
-# Manage your FTP page
+# Manage your FTP & EP page
 
 The "rosin-project.eu" homepage offers a blog for all accepted FTPs and EPs.  
 ROSIN  FTP & EP beneficiaries are able to manage their own blog page as described in the [how_to](how_to_manage_your_ftp_page.md).
